@@ -1,0 +1,1 @@
+require('./module-by-yafim-dziuko');
